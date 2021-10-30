@@ -1,4 +1,5 @@
-![](https://www.zyte.com/wp-content/uploads/2021/02/Zyte-DataAnim-diagram-optimised-1.gif)
+![](https://www.zyte.com/wp-content/uploads/2021/02/Zyte-DataAnim-diagram-optimised-1.gif?thumbnail=default&display=thumbnail)
+
 
 # Python - BeautifulSoup4
 Python Web Scraping - Doviz.com
