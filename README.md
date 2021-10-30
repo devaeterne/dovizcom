@@ -1,4 +1,4 @@
-![](https://www.zyte.com/wp-content/uploads/2021/02/Zyte-DataAnim-diagram-optimised-1.gif?thumbnail=default&display=thumbnail)
+![](https://miro.medium.com/max/700/1*eKTJX7jOQpAHXC__-OcfQw.gif?thumbnail=default&display=thumbnail)
 
 
 # Python - BeautifulSoup4
